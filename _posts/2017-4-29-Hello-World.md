@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First post
+title: Messing with the pi
 published: true
 ---
 Started putting together sensors on the Raspberry Pi, writing code in Python to integrate it with a Slack bot.
