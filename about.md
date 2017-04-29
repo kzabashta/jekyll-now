@@ -2,14 +2,15 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+I am a full stack developer / architect working in capital market / institutional investment industry.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I enjoy all the nerdy techy things, spanning from front end development to data modeling to tinkering with the hardware. I am a generalist, although I prefer dynamic programming languages like Python and ES.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[kosta.zabashta@gmail.com](mailto:kosta.zabashta@gmail.com)
