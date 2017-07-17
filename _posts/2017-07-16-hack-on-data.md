@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## A Dive into Big Data
 
