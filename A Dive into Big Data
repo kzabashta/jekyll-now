@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 Since July 4th, I have been taking a free (mostly) online course on Apache Spark organized by good people from [HackOn(Data)](http://www.hackondata.com). I managed to recruit a few people from my company to take this course as well, thinking that we could help each other out and a bit of peer pressure to complete weekly assignments doesn't hurt! 
 
