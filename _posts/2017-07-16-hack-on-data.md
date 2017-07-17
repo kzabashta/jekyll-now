@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-Since July 4th, I have been taking a free (mostly) online course on Apache Spark organized by good people from [HackOn(Data)](http://www.hackondata.com). I managed to recruit a few people from my company to take this course as well, thinking that we could help each other out and a bit of peer pressure to complete weekly assignments doesn't hurt! 
+Since July 4th, I have been taking a free (mostly) online course on [Apache Spark](https://spark.apache.org/) organized by good people from [HackOn(Data)](http://www.hackondata.com). I managed to recruit a few people from my company to take this course as well, thinking that we could help each other out and a bit of peer pressure to complete weekly assignments doesn't hurt! 
 
 The course started off with an in-person session at LoyaltyOne building in downtown Toronto. I was very impressed by the number of people that showed up, I think there were more than 100 people in total. I was also glad to re-connect with some of my old co-workers that I haven't seen in months and years.
 
